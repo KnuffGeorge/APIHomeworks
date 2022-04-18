@@ -37,6 +37,19 @@ footer {
 
 }
 
+img {
+     max-width: 750px;
+     max-height: 750px;
+}
+
+.hidden {
+     display: none;
+}
+
+iframe {
+     border: none;
+}
+
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
